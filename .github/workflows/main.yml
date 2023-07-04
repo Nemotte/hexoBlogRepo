@@ -18,10 +18,10 @@ jobs:
       uses: actions/checkout@main 
       
     # from: https://github.com/actions/setup-node  
-    - name: Setup Node.js 12.x 
+    - name: Setup Node.js 14.x 
       uses: actions/setup-node@main
       with:
-        node-version: "12.x"
+        node-version: "14.x"
     
     - name: Setup Hexo Dependencies
       run: |
@@ -42,7 +42,7 @@ jobs:
       run: | 
         git config --global user.name 'Nemotte' 
         git config --global user.email 'jinzilong312@163.com'
-        
+
     - name: Deploy Hexo 
       run: |
         hexo clean
