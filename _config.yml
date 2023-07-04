@@ -104,5 +104,5 @@ theme: zhl
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Nemotte/nemotte.github.io.git
+  repo: git@github.com:Nemotte/nemotte.github.io.git
   branch: main
