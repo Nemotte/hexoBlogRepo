@@ -109,15 +109,15 @@ npm install
 
 #### 主页
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438.png" alt="size" style="zoom:33%;" />
 
 #### 文章
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-1.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-1.png" style="zoom:33%;" />
 
 #### 小游戏
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-2.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-2.png" style="zoom:33%;" />
 
 
 
@@ -125,7 +125,7 @@ npm install
 
 选用的Hexo主题为Zhl，依赖Hexo对分类、归档、标签的自动生成插件。在文章头部添加对应的分类、标签后，可以自动生成对应的分类、标签页面，在左侧小工具处可以查看。
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-3.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-3.png" style="zoom:33%;" />
 
 
 
@@ -260,7 +260,7 @@ $ hexo new page <pagename>
 
 效果如下：
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-4.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-4.png" style="zoom:33%;" />
 
 
 
@@ -280,9 +280,9 @@ $ hexo new page <pagename>
 
 
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-2.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-2.png" style="zoom:33%;" />
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-5.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-5.png" style="zoom:33%;" />
 
 
 
@@ -380,7 +380,7 @@ jobs:
 
 我在本科期间一直有写博客的习惯。在大一的时候，自己租用了云服务器搭建Wordpress博客，并长时间使用，其中包括了各种项目和笔记。但是Wordpress博客的配置相对简单，而且操作基于图形化界面，几乎无门槛。当然，如果要完成站点的维护、页面的重排还是有门槛的，只是使用并无门槛。
 
-![](https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-6.png)
+<img src="https://www.nemotte.cn/wordpress/wp-content/uploads/2023/07/QQ截图20230704103438-6.png" style="zoom:33%;" />
 
 而Hexo框架，相当于提供了主题配置+Markdown文章到HTML项目的编译功能，使用者对于项目的每一个细节都有更好的理解，可以更加简单地自定义设计和功能。并且Hexo搭建的是静态站点，加载速度明显高于Wordpress。
 
@@ -411,3 +411,4 @@ deploy:
 [DaSE静态博客](https://nemotte.github.io/)
 
 [Nemotte的博客](https://www.nemotte.cn/)
+
